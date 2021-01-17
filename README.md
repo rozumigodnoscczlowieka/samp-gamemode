@@ -1,5 +1,4 @@
-# ips stara wersja
-required .inc files for pawno compiler: a_samp, dfile, kolory, Sscanf2, zcmd, streamer
-
+# base for gm
+don't expect much
 plugins: whirlpool.dll, streamer.dll, sscanf.dll
 

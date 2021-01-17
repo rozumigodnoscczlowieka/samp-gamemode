@@ -6,7 +6,6 @@
 
 
 
-
 native WP_Hash(buffer[], len, const str[]); 
 
 //Ustawienia serwera
@@ -35,7 +34,6 @@ new Text:logoserver;
 new Text:pasekpom;
 new Text:LOGOICY;
 new Text:LOGOPARTY;
-//wasted
 
 
 //onconnect
